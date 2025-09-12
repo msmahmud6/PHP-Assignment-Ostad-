@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Toyota 911",
+        "type": "Car",
+        "price": "19999",
+        "image": "https:\/\/www.financialexpress.com\/auto\/images\/model-media-1726140067274.jpg?w=320"
+    },
+    {
+        "name": "Kawasaki Z900",
+        "type": "Motorcycle",
+        "price": "198923",
+        "image": "https:\/\/a2motorbikes.b-cdn.net\/wp-content\/uploads\/2023\/03\/kawasaki-z900.jpg"
+    }
+]
